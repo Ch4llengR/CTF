@@ -18,7 +18,7 @@ Ce challenge porte sur une faille de type LFI.
 
 Dans un premier temps, regardons ce qu'il se passe sur la page web :
 
-![bestiary](../images/Bestiary.jpg	)
+![bestiary](../images/Bestiary.jpg)
 
 Nous avons une liste déroulante permettant de choisir un "monstre" et d'afficher sa description.
 
